@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_clear_data"
+        android:title="@string/clear_data" />
+    <item
+        android:id="@+id/action_delete_packages"
+        android:title="@string/delete_packages" />
+    <item
+        android:id="@+id/action_clear_and_delete"
+        android:title="@string/clear_and_delete" />
+    <item
+        android:id="@+id/action_refresh_package_list"
+        android:title="@string/refresh" />
+    <item
+        android:id="@+id/select_all"
+        android:title="@string/select_all" />
+    <item
+        android:id="@+id/unselect_all"
+        android:title="@string/unselect_all" />
+</menu>

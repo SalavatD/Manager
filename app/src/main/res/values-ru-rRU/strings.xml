@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="author">Салават Даутов</string>
+    <string name="сreation_date">Дата создания: 8 марта 2020</string>
+    <string name="about">О программе</string>
+    <string name="clear_log">Очистить вывод</string>
+    <string name="clear_command">Очистить поле ввода</string>
+    <string name="start_shell">Запустить Shell</string>
+    <string name="execute">Выполнить</string>
+    <string name="clear_external_storage">Очистить внутреннюю память</string>
+    <string name="clear_data">Очистить данные</string>
+    <string name="delete_packages">Удалить приложения</string>
+    <string name="clear_and_delete">Очистить и удалить</string>
+    <string name="refresh">Обновить</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="unselect_all">Отменить все</string>
+    <string name="loading">Загрузка</string>
+    <string name="packages">Приложения</string>
+    <string name="delete_package">Удалить приложение</string>
+    <string name="package_title">Название приложения</string>
+    <string name="package_name">Имя пакета приложения</string>
+    <string name="package_source_path">Путь до папки приложения</string>
+    <string name="package_data_dir">Путь до папки данных приложения</string>
+    <string name="not_installed_packages">Неустановленные приложения</string>
+    <string name="enter_command">Введите команду</string>
+</resources>
